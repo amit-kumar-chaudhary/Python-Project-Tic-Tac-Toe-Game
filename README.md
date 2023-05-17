@@ -26,4 +26,4 @@ Open a terminal or command prompt.
 Navigate to the directory where the `CODE_Tic_Tac_Toe_game.py` file is located.
 Run the command python `CODE_Tic_Tac_Toe_game.py` to start the game.
 
-Enjoy playing Tic Tac Toe with your friends and have fun!
+### Enjoy playing Tic Tac Toe with your friends and have fun!
